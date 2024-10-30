@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+PyYAML
+Jinja2
+numpy
+torch
+lancedb
+transformers
+sentence-transformers
+requests
+llm
+python-multipart
+pandas 
